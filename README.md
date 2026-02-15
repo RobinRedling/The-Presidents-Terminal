@@ -5,7 +5,7 @@ Ein textbasiertes Terminal-Strategiespiel, entwickelt als mein erstes größeres
 ![Gameplay Screenshot](spielstart.png)
 ![Gameplay Screenshot](system-initialisierung.png)
 ![Gameplay Screenshot](newgame.png)
-![Gameplay Screenshot](spielstart.png)
+![Gameplay Screenshot](main.png)
 ![Gameplay Screenshot](regionen.png)
 
 ## Über das Projekt
