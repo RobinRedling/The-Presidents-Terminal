@@ -2,6 +2,12 @@
 
 Ein textbasiertes Terminal-Strategiespiel, entwickelt als mein erstes größeres Python-Projekt zum Lernen der Programmierung.
 
+![Gameplay Screenshot](spielstart.png)
+![Gameplay Screenshot](system-initialisierung.png)
+![Gameplay Screenshot](newgame.png)
+![Gameplay Screenshot](spielstart.png)
+![Gameplay Screenshot](regionen.png)
+
 ## Über das Projekt
 
 The President's Terminal ist ein Idle/Clicker-Strategiespiel, das komplett im Terminal läuft. Als Präsident baust du deine Armee auf, eroberst Regionen und verwaltest deine Ressourcen. Das Spiel kombiniert Echtzeit-Mechaniken mit strategischen Entscheidungen.
