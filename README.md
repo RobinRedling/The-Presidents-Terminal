@@ -3,19 +3,19 @@
 Ein textbasiertes Terminal-Strategiespiel, entwickelt als mein erstes größeres Python-Projekt zum Lernen der Programmierung.
 
 ## Spielstart
-![Gameplay Screenshot](spielstart.png)
+![Gameplay Screenshot](images/spielstart.png)
 
 ## System-Initialisierung
-![Gameplay Screenshot](system-initialisierung.png)
+![Gameplay Screenshot](images/system-initialisierung.png)
 
 ## Neues Spiel erstellen
-![Gameplay Screenshot](newgame.png)
+![Gameplay Screenshot](images/newgame.png)
 
 ## Hauptmenü 
-![Gameplay Screenshot](main.png)
+![Gameplay Screenshot](images/main.png)
 
 ## Regionen/ Kämpfe
-![Gameplay Screenshot](regionen.png)
+![Gameplay Screenshot](images/regionen.png)
 
 ## Über das Projekt
 
